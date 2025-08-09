@@ -4,7 +4,7 @@
 
 A Qt-based logarithmic slider widget that provides smooth logarithmic scaling for better user interaction with exponential data ranges.
 
-### Features ✨
+### Features
 
 - 📊 Logarithmic mapping between the slider's linear position and a value range \[`min`, `max`\]
 - ⚙️ Configurable log range via `setLogRange(min, max)`
@@ -12,7 +12,7 @@ A Qt-based logarithmic slider widget that provides smooth logarithmic scaling fo
 - 📡 Signal `logValueChanged(double)` emitted whenever the value changes
 - 🔄 Works with Qt 5 and Qt 6; supports horizontal and vertical orientations
 
-### Use Cases 🎯
+### Use Cases
 
 - 🔊 **Audio/Video Controls**: Volume, frequency, or gain controls
 - 🔬 **Scientific Applications**: Parameter adjustment with exponential ranges
@@ -144,3 +144,4 @@ public:
 ### Contributing
 
 Issues and pull requests are welcome. Please include a short description, reproduction steps (if applicable), and platform/Qt version info.
+
